@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Tenho interesse pela área de desenvolvimento de jogos;<br>📚Estou fazendo técnico em Game Development Na Fiap;<br>🎯 venho buscando constantemente novas experiências e desafios para aprimorar minhas habilidades e explorar novos horizontes na indústria dos jogos; <br></p>
+<p align="left">✨ Tenho interesse pela área de desenvolvimento de jogos;<br>📚Estou fazendo técnico em Game Development Na Fiap;<br>🎯 Venho buscando constantemente novas experiências e desafios para aprimorar minhas habilidades e explorar novos horizontes na indústria dos jogos; <br></p>
 
 ###
 
