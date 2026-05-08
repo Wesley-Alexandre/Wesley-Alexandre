@@ -40,5 +40,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/wesley-campos](https://linkedin.com/in/wesley-campos)
+- LinkedIn: [linkedin.com/in/wesley-campos](https://www.linkedin.com/in/wesley-silva-campos-102160231/)
 - GitHub: [github.com/Wesley-Alexandre](https://github.com/Wesley-Alexandre)
